@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img src="![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3w04xb1jcuh3cu30f1akxo6pu)" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3w04xb1jcuh3cu30f1akxo6pu" />
 </div>
 
 ###
