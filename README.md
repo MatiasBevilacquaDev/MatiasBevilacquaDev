@@ -9,7 +9,6 @@
 
 	
 ## **About me**
-
 <br>
 
 - A passionate junior fullstack developer
@@ -26,7 +25,6 @@
 <p align="center">
 
 - **Languages**:
-
   <br>
   
     ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
