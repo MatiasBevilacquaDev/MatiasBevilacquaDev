@@ -11,7 +11,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working Freelance.\
+👨‍💻 &nbsp;I am currently working freelance.\
 💡 &nbsp;I like to explore new technologies and develop web and software.\
 🎓 &nbsp;I'm currently studying Bachelor's Degree in Computer Science in the UNLP (Universidad Nacional de La Plata) .\
 ✍️ &nbsp;In my free time, I play FPS.\
